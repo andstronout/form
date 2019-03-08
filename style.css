@@ -1,0 +1,19 @@
+.main-page {
+	height: 100px;
+}
+
+.main-page h1{
+	padding-top: 100px;
+}
+
+.main-page h2{
+	padding-top: 50px;
+}
+
+.main-page a{
+	margin-top: 80px;
+}
+
+img{
+	width: 20%;
+}
